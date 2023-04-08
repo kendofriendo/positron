@@ -31,3 +31,6 @@ List of electron apps so I can avoid them, and some alternatives to use instead
 * github desktop
 * hyper
 * visual studio code*
+
+## video
+* freetube
