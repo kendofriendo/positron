@@ -38,3 +38,6 @@ List of electron apps so I can avoid them, and some alternatives to use instead
 
 ## vpn
 * mullvadvpn-app
+
+## news feeds
+* raven-reader
