@@ -16,6 +16,7 @@ List of electron apps so I can avoid them, and some alternatives to use instead
 * siyuan
 ### Alternatives
 * memos
+* mdsilo
 ## music
 * nuclear
 * tidal
