@@ -15,6 +15,7 @@ List of electron apps so I can avoid them, and some alternatives to use instead
 * standard notes
 * siyuan
 * affine
+* cubytext
 ### Alternatives
 * memos
 * mdsilo
