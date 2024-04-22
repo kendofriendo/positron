@@ -1,7 +1,8 @@
 # positron
 List of electron apps so I can avoid them, and some alternatives to use instead
 
-## writing/notes
+# Avoid
+## Writing/notes
 * obsidian
 * logseq
 * joplin
@@ -16,11 +17,17 @@ List of electron apps so I can avoid them, and some alternatives to use instead
 * siyuan
 * affine
 * cubytext
-### Alternatives
+
+# Alternatives
+## Writing/notes
+* AlephNote
+* Notes
+* [xournalpp](https://github.com/xournalpp/xournalpp)
 * memos
 * mdsilo
 * idaebasic
 * appflowy
+
 ## music
 * nuclear
 * tidal
