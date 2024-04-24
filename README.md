@@ -1,48 +1,52 @@
-# positron
-List of electron apps so I can avoid them, and some alternatives to use instead
+<!--suppress HtmlDeprecatedAttribute -->
 
-## writing/notes
-* obsidian
-* logseq
-* joplin
-* notable
-* trillium
-* zettler
-* notable
-* notesnook
-* notion
-* nota
-* standard notes
-* siyuan
-* affine
-* cubytext
-### Alternatives
-* memos
-* mdsilo
-* idaebasic
-* appflowy
-## music
-* nuclear
-* tidal
-* splice
+<p align="center">
+  <img src="/dollar.gif" alt="BackEndBR" width="100px" />
+</p>
 
-## social
-* discord
-* signal
-* skype
-* slack
+<p align="center">
+  <h1 align="center">Positron</h1>
+</p>
 
-## development
-* figma
-* github desktop
-* hyper
-* visual studio code*
+Electron apps so I can avoid them, and some alternatives to use instead
 
-## video
-* freetube
+<div id='projects'></div>
 
-## vpn
-* mullvadvpn-app
+| Name                      | type            | alternative     |
+|---------------------------|-----------------|-----------------|
+| obsidian |  Writing/notes | Alephnote |
+| logseq |  Writing/notes| Notes |
+| joplin |  Writing/notes| nvim, neovim, vi ... |
+| notable |  Writing/notes| notation |
+| trillium |  Writing/notes| sublimetext |
+| zettler |  Writing/notes|  [xournalpp](https://github.com/xournalpp/xournalpp) |
+| notable |  Writing/notes| memos |
+| notesnook |  Writing/notes|  mdsilo|
+| notion |  Writing/notes| idaebasic |
+| nota |  Writing/notes| appflowy |
+| standard notes  |  Writing/notes| |
+| siyuan |  Writing/notes| passnote |
+| affine |  Writing/notes| notepad++ |
+| cubytext | Writing/notes| notepad |
+| nuclear | music| spotify |
+| tidal | music| deezer |
+| splice | music| free spotify |
+| discord | social | nostr |
+| signal | social | blue-sky |
+| skype | social| friend-to-friend |
+| slack | social| mastodon |
+| figma | development| prototype |
+| github desktop | development| gogs |
+| hyper | development| github discussions |
+| visual studio | development| lite-xl |
+| youtube | video| freetube |
+| free  vpn | vpn | openvpn |
+| freepremium  vpn | vpn | mullvadvpn-app |
+| raven-reader | rss |  github rss |
 
-## news feeds
-* raven-reader
+<div id='license'></div>
+
+## License
+BSD 3-Clause License
+
+<div id='contributing'></div>
