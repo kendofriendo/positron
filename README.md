@@ -43,6 +43,8 @@ Electron apps so I can avoid them, and some alternatives to use instead
 | free  vpn | vpn | openvpn |
 | freepremium  vpn | vpn | mullvadvpn-app |
 | raven-reader | rss |  github rss |
+| postgresql   | database | [datawan-labs/pg](https://github.com/datawan-labs/pg)
+| trello   | kanban | [nullboard](https://github.com/apankrat/nullboard)
 
 <div id='license'></div>
 
