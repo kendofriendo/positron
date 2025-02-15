@@ -14,32 +14,32 @@ Electron apps so I can avoid them, and some alternatives to use instead
 
 | Name                      | type            | alternative     |
 |---------------------------|-----------------|-----------------|
-| obsidian |  Writing/notes | Alephnote |
+| obsidian |  Writing/notes | [Alephnote](https://mikescher.github.io/AlephNote/) |
 | logseq |  Writing/notes| Notes |
-| joplin |  Writing/notes| nvim, neovim, vi ... |
-| notable |  Writing/notes| notation |
-| trillium |  Writing/notes| sublimetext |
+| joplin |  Writing/notes| [nvim](https://neovim.io/), [neovim](https://neovim.io/), vi ... |
+| notable |  Writing/notes| Notation |
+| trillium |  Writing/notes| [Sublime Text](https://www.sublimetext.com/) |
 | zettler |  Writing/notes|  [xournalpp](https://github.com/xournalpp/xournalpp) |
-| notable |  Writing/notes| memos |
-| notesnook |  Writing/notes|  mdsilo|
+| notable |  Writing/notes| Memos |
+| notesnook |  Writing/notes|  [mdsilo](https://mdsilo.com/)|
 | notion |  Writing/notes| idaebasic |
-| nota |  Writing/notes| appflowy |
+| nota |  Writing/notes| [AppFlowy](https://appflowy.com/) |
 | standard notes  |  Writing/notes| |
-| siyuan |  Writing/notes| passnote |
-| affine |  Writing/notes| notepad++ |
+| siyuan |  Writing/notes| [passnote](https://passnote.io/) |
+| affine |  Writing/notes| [Notepad++](https://notepad-plus-plus.org/) |
 | cubytext | Writing/notes| notepad |
-| nuclear | music| spotify |
-| tidal | music| deezer |
+| nuclear | music| [Spotify](https://open.spotify.com/) |
+| tidal | music| [Deezer](https://www.deezer.com/us/) |
 | splice | music| free spotify |
-| discord | social | nostr |
+| discord | social | [Nostr](https://nostr.com/) |
 | signal | social | blue-sky |
 | skype | social| friend-to-friend |
-| slack | social| mastodon |
+| slack | social| [Mastodon](https://mastodon.social/) |
 | figma | development| prototype |
-| github desktop | development| gogs |
-| hyper | development| github discussions |
-| visual studio | development| lite-xl |
-| youtube | video| freetube |
+| github desktop | development| [Gogs](https://gogs.io/) |
+| hyper | development| GitHub Discussions |
+| visual studio | development| [Lite XL](https://lite-xl.com/) |
+| youtube | video| [FreeTube](https://freetubeapp.io/) |
 | free  vpn | vpn | openvpn |
 | freepremium  vpn | vpn | mullvadvpn-app |
 | raven-reader | rss |  github rss |
